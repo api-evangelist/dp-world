@@ -1,35 +1,33 @@
-url: https://example.com/apis/agriculture-api-agrio.yml
+aid: dp-world
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/dp-world/refs/heads/main/apis.yml
 apis:
-  - aid: agrio:agrio
-    name: Agrio
+  - aid: dp-world:dp-world
+    name: DP World
     tags:
-      - Credit
-      - Balance
-      - Crops
-      - Diagnose
-      - Diagnosis
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-    humanURL: https://agrio.app/Agriculture-API/
+      - API
+    humanURL: ' https://fulfillment.dpworld.com/optimise-by-dp-world/'
     properties:
-      - url: https://agrio.app/Agriculture-API/
+      - url: ' https://fulfillment.dpworld.com/optimise-by-dp-world/'
         type: Documentation
-      - url: properties/agrio-openapi.yml
-        type: OpenAPI
     description: >-
-      With our APIs, you can access data on weather patterns, pest and disease
-      predictions, and more to build a more accurate crop advisory tool.  
-name: Agrio
-aid: agrio
+      Revolutionise your supply chain with one simple integration, Optimise by
+      DP World.Compare courier prices, view all delivery statuses, report on
+      SLA’s and obtain real-time billing all in one place. 
+name: DP World
 tags:
-  - Agriculture
-image: >-
-  https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/agriculture-api-agrio.png
-created: '2024-07-11'
-modified: '2024-11-10'
+  - API
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-03-01'
+modified: '2025-03-01'
+position: Consumer
 description: >-
-  With our APIs, you can access data on weather patterns, pest and disease
-  predictions, and more to build a more accurate crop advisory tool.
+  Revolutionise your supply chain with one simple integration, Optimise by DP
+  World.Compare courier prices, view all delivery statuses, report on SLA’s and
+  obtain real-time billing all in one place. 
 maintainers:
-  - FN: API Evangelist
+  - FN: Kin Lane
     email: info@apievangelist.com
-specificationVersion: '0.18'
+specificationVersion: '0.19'
