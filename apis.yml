@@ -5,9 +5,9 @@ apis:
   - aid: dp-world:dp-world
     name: DP World API
     tags:
-      - Supply Chain
-      - Ports
       - Maritime
+      - Ports
+      - Supply Chain
     humanURL: ' https://fulfillment.dpworld.com/optimise-by-dp-world/'
     properties:
       - url: ' https://fulfillment.dpworld.com/optimise-by-dp-world/'
@@ -20,9 +20,9 @@ apis:
       companies to enhance visibility, efficiency, and decision-making.
 name: DP World
 tags:
-  - Supply Chain
-  - Ports
   - Maritime
+  - Ports
+  - Supply Chain
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
