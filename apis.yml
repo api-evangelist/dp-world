@@ -37,6 +37,8 @@ apis:
       - type: Documentation
         url: https://fulfillment.dpworld.com/optimise-by-dp-world/
 common:
+  - type: DomainSecurity
+    url: security/dp-world-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/dp-world
   - type: Website
