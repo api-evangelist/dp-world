@@ -33,7 +33,7 @@ tags:
   - Supply Chain
   - Logistics
 created: '2025-03-01'
-modified: '2026-04-28'
+modified: '2026-10-06'
 description: >-
   DP World is an Emirati global logistics company that specializes in port operations,
   maritime services, and supply chain solutions. It manages and operates marine and
@@ -60,6 +60,8 @@ apis:
       - type: Documentation
         url: https://fulfillment.dpworld.com/optimise-by-dp-world/
 common:
+  - url: https://www.dpworld.com/en/insights
+    type: Blog
   - type: DomainSecurity
     url: security/dp-world-domain-security.yml
   - type: LinkedIn
