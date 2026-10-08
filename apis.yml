@@ -60,6 +60,12 @@ apis:
       - type: Documentation
         url: https://fulfillment.dpworld.com/optimise-by-dp-world/
 common:
+  - type: Plans
+    url: plans/dp-world-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/dp-world-rate-limits.yml
+  - type: FinOps
+    url: finops/dp-world-finops.yml
   - url: https://www.dpworld.com/en/insights
     type: Blog
   - type: DomainSecurity
