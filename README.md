@@ -1,4 +1,4 @@
-# DP World (dp-world)
+# DP World
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,53 +66,100 @@
 
 DP World is an Emirati global logistics company that specializes in port operations, maritime services, and supply chain solutions. It manages and operates marine and inland terminals across more than 40 countries and operates a portfolio of digital platforms - including the CARGOES suite (Flow, Runner, TOS+, PCS, Customs), Searates, and the Digital Freight Alliance - that expose APIs and integrations for shipment visibility, freight pricing, terminal operations, and trade workflows.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/dp-world/refs/heads/main/apis.yml)
+**Areas:** Maritime · Ports · Supply Chain · Logistics
 
-## Scope
+## DP World on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for DP World is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dp-world/](https://apis.io/providers/dp-world/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Maritime
-- Ports
-- Supply Chain
-- Logistics
+- [DP World API](https://apis.io/apis/dp-world/dp-world/) — DP World's APIs provide access to shipping schedules, container status, terminal operations, freight rates, and supply chain visibility data across the…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-03-01
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### DP World API
+Authentication, trust centre, and vulnerability disclosure.
 
-DP World's APIs provide access to shipping schedules, container status, terminal operations, freight rates, and supply chain visibility data across the company's global port and logistics network. Through the CARGOES platform and partner tools such as Searates, developers can integrate real-time tracking, booking, and trade workflows into their own applications.
+- [Dp World Domain Security](https://apis.io/security/dp-world/dp-world-domain-security/)
 
-**Human URL:** [https://fulfillment.dpworld.com/optimise-by-dp-world/](https://fulfillment.dpworld.com/optimise-by-dp-world/)
+#### Plans and pricing (1)
 
-#### Tags
+Published plans, tiers and prices.
 
-- Maritime
-- Ports
-- Supply Chain
-- Logistics
+- [Dp World Plans Pricing](https://apis.io/plans/dp-world/dp-world-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://fulfillment.dpworld.com/optimise-by-dp-world/)
+Published request limits.
 
-## Common Properties
+- [Dp World Rate Limits](https://apis.io/rate-limits/dp-world/dp-world-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Dp World Finops](https://apis.io/finops/dp-world/dp-world-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dpworld.com)
-- [Digital Solutions](https://www.dpworld.com/digital-solutions)
-- [CARGOES](https://www.cargoes.com/)
+- [Blog](https://www.dpworld.com/en/insights)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 6.5** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dp-world/](https://apis.io/providers/dp-world/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for DP World: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dp-world/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
